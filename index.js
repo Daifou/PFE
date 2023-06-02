@@ -18,7 +18,7 @@ const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    //password: 'DaifouHkt26062003'
+    // password: 'DaifouHkt26062003',
     database: 'pfe_immobile'
 });
 
